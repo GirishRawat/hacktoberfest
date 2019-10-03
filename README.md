@@ -8,5 +8,5 @@ Learning how to do pull requests for Hacktoberfest!
 <em>Step 4</em>: Change to the branch by using "git checkout <BRANCH NAME>" <br/>
 <em>Step 5</em>: Make the changes without affecting the master. <br/>
 <em>Step 6</em>: Commit and push changes! <br/>
-<em>Step 7</em>: Have FUN!!!! <br/>
+<em>Step 7</em>: Have FUN!!!!! <br/>
 <em>Go back to github.com and click on "Compare and pull request" and you are done!</em>
